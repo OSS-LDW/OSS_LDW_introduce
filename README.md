@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OSS_LDW_introduction
 Lee Dong Won
 # OSS_LDW_introduce
